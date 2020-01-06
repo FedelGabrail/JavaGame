@@ -12,9 +12,8 @@ import javax.sound.sampled.*;
  */
 public class Sound {
 
-	static int f;
+	static int f, d;
 	private static Clip musicClip, fxClip;
-	static int d;
 	private static int frame;
 	public static int fxD;
 
